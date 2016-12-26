@@ -1,4 +1,4 @@
-package com.w2a.facebook;
+package test.java.com.w2a.facebook;
 import org.apache.log4j.Logger;
 import java.util.List;
 import java.util.Map;

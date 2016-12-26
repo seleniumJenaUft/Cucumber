@@ -1,4 +1,4 @@
-package com.w2a.facebook;
+package main.java.com.w2a.facebook;
 
 import java.io.FileInputStream;
 import java.util.Properties;

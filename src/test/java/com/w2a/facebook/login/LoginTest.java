@@ -1,11 +1,11 @@
-package com.w2a.facebook.login;
+package test.java.com.w2a.facebook.login;
 
 
 
 
 import org.junit.Assert;
 
-import com.w2a.facebook.WebConnector;
+import main.java.com.w2a.facebook.WebConnector;
 
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;

@@ -1,4 +1,4 @@
-package com.w2a.facebook;
+package test.java.com.w2a.facebook;
 
 import org.junit.runner.RunWith;
 
